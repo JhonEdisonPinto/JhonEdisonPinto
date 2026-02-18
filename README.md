@@ -93,14 +93,15 @@ I'm a <b>flexible</b> person with <b>great team communication skills</b> and <b>
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhonEdisonPinto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonEdisonPinto&layout=compact&theme=dracula&langs_count=6" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JhonEdisonPinto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhonEdisonPinto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="160" alt="languages graph" />
 </div>
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=JhonEdisonPinto&theme=dracula" height="180" alt="streak graph" />
+  <img src="https://streak-stats.demolab.com?user=JhonEdisonPinto&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=JhonEdisonPinto&theme=dracula&column=4&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="160" alt="trophy graph" />
 </div>
 
 ###

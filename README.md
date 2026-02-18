@@ -38,6 +38,36 @@ I'm a <b>flexible</b> person with <b>great team communication skills</b> and <b>
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=r" height="50" alt="r logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=latex" height="50" alt="latex logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="50" alt="sklearn logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
+</div>
+
+###
+
+## 🔧 Specialized Tools & Frameworks
+
 <<div align="center">
   <img src="https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge" height="30" alt="langchain" />
   <img src="https://img.shields.io/badge/🦜_LangGraph-1C3C3C?style=for-the-badge" height="30" alt="langgraph" />
@@ -55,15 +85,6 @@ I'm a <b>flexible</b> person with <b>great team communication skills</b> and <b>
 <div align="center">
   <img src="https://img.shields.io/badge/TypedDict-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" alt="typeddict" />
   <img src="https://img.shields.io/badge/XPath-E34F26?style=for-the-badge" height="30" alt="xpath" />
-</div>
-
-###
-
-## 🔧 Specialized Tools & Frameworks
-
-<div align="center">
-  <img src="https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge" height="30" alt="langchain" />
-  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="30" alt="playwright" />
 </div>
 
 ###

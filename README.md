@@ -68,7 +68,7 @@ I'm a <b>flexible</b> person with <b>great team communication skills</b> and <b>
 
 ## 🔧 Specialized Tools & Frameworks
 
-<<div align="center">
+<div align="center">
   <img src="https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge" height="30" alt="langchain" />
   <img src="https://img.shields.io/badge/🦜_LangGraph-1C3C3C?style=for-the-badge" height="30" alt="langgraph" />
   <img src="https://img.shields.io/badge/🦜_LangSmith-2C5C5C?style=for-the-badge" height="30" alt="langsmith" />

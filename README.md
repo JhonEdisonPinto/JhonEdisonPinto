@@ -70,21 +70,7 @@ I'm a <b>flexible</b> person with <b>great team communication skills</b> and <b>
 
 <div align="center">
   <img src="https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge" height="30" alt="langchain" />
-  <img src="https://img.shields.io/badge/🦜_LangGraph-1C3C3C?style=for-the-badge" height="30" alt="langgraph" />
-  <img src="https://img.shields.io/badge/🦜_LangSmith-2C5C5C?style=for-the-badge" height="30" alt="langsmith" />
-  <img src="https://img.shields.io/badge/Langfuse-000000?style=for-the-badge" height="30" alt="langfuse" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white" height="30" alt="pydantic" />
   <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="30" alt="playwright" />
-  <img src="https://img.shields.io/badge/ChromaDB-FF6584?style=for-the-badge" height="30" alt="chromadb" />
-  <img src="https://img.shields.io/badge/Pytesseract-4285F4?style=for-the-badge" height="30" alt="pytesseract" />
-</div>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/TypedDict-3776AB?style=for-the-badge&logo=python&logoColor=white" height="30" alt="typeddict" />
-  <img src="https://img.shields.io/badge/XPath-E34F26?style=for-the-badge" height="30" alt="xpath" />
 </div>
 
 ###
@@ -106,12 +92,21 @@ I'm a <b>flexible</b> person with <b>great team communication skills</b> and <b>
 
 ## 📈 GitHub Analytics
 
+<div align="center">
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhonEdisonPinto&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=JhonEdisonPinto&theme=dracula" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonEdisonPinto&layout=compact&theme=dracula" height="160"/>
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=JhonEdisonPinto&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="160"/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=JhonEdisonPinto&theme=dracula" height="160"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonEdisonPinto&layout=compact&theme=dracula" height="160"/>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JhonEdisonPinto/JhonEdisonPinto/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JhonEdisonPinto/JhonEdisonPinto/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/JhonEdisonPinto/JhonEdisonPinto/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 
 ### 📉 Gráfico de Contribuciones
 
@@ -120,6 +115,7 @@ I'm a <b>flexible</b> person with <b>great team communication skills</b> and <b>
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JhonEdisonPinto&theme=react-dark&hide_border=true&area=true)
 
 </div>
+
 ## 📫 Let's Connect
 
 <div align="center">

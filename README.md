@@ -92,6 +92,16 @@ I'm a <b>flexible</b> person with <b>great team communication skills</b> and <b>
 
 ## 📈 GitHub Analytics
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=JhonEdisonPinto&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" height="180" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonEdisonPinto&layout=compact&theme=dracula&langs_count=6" height="180" alt="languages graph" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JhonEdisonPinto&theme=dracula" height="180" alt="streak graph" />
+</div>
 
 ###
 

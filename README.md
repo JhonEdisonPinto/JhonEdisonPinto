@@ -65,17 +65,14 @@ Soy una persona flexible con **grandes capacidades de comunicación en equipo** 
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JhonEdisonPinto&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JhonEdisonPinto&theme=radical&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonEdisonPinto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonEdisonPinto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </div>
 
-### 💻 Lenguajes Más Utilizados
-
 <div align="center">
   
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JhonEdisonPinto&layout=compact&theme=radical&hide_border=true&langs_count=8)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=JhonEdisonPinto&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
 
 </div>
 
@@ -83,7 +80,7 @@ Soy una persona flexible con **grandes capacidades de comunicación en equipo** 
 
 <div align="center">
   
-![Trophies](https://github-profile-trophy.vercel.app/?username=JhonEdisonPinto&theme=radical&no-frame=true&no-bg=true&margin-w=4&column=7)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JhonEdisonPinto&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 

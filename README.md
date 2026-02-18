@@ -93,18 +93,12 @@ I'm a <b>flexible</b> person with <b>great team communication skills</b> and <b>
 ## 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JhonEdisonPinto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" alt="stats graph" />
 
-</div>
+<img src="https://github-readme-stats.vercel.app/api?username=JhonEdisonPinto&show_icons=true&theme=dracula&count_private=true&include_all_commits=true" height="160"/>
 
-###
+<img src="https://github-readme-streak-stats.herokuapp.com?user=JhonEdisonPinto&theme=dracula" height="160"/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=JhonEdisonPinto&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160" alt="streak graph" />
- 
-</div>
-
-###
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonEdisonPinto&layout=compact&theme=dracula" height="160"/>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JhonEdisonPinto/JhonEdisonPinto/output/pacman-contribution-graph-dark.svg">

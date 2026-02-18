@@ -1,106 +1,134 @@
-# 👋 ¡Hola! Soy Jhon Edison Pinto
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=header&text=Jhon%20Edison%20Pinto&fontSize=35&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&color=gradient" width="100%" />
+</div>
 
-## 🚀 Desarrollador especializado en Inteligencia Artificial
+###
 
-Soy una persona flexible con **grandes capacidades de comunicación en equipo** y **aprendizaje rápido**, con la habilidad de adaptarme fácilmente a nuevas y diferentes tecnologías. Mi enfoque principal está en el **desarrollo de soluciones con IA**.
+<h1 align="center">👋 Hey! What's Up?</h1>
 
----
+<h3 align="center">🚀 AI-Specialized Developer</h3>
 
-## 💼 Sobre mí
+###
 
-- 🧠 Especializado en **Inteligencia Artificial** y **Machine Learning**
-- 🤝 Excelentes habilidades de **trabajo en equipo** y **comunicación**
-- ⚡ **Aprendizaje rápido** y adaptación a nuevas tecnologías
-- 🔄 **Flexible** ante cambios y nuevos desafíos
-- 🎯 Enfocado en crear soluciones innovadoras y eficientes
+<p align="center">
+I'm a <b>flexible</b> person with <b>great team communication skills</b> and <b>fast learning</b> abilities, capable of easily adapting to new and different technologies. My main focus is on <b>AI solutions development</b>.
+</p>
 
----
-
-## 🛠️ Tecnologías y Herramientas
-
-### Lenguajes de Programación
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white)
-
-### Bases de Datos
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
-
-### Herramientas de IA/ML
-![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white)
-
-### Control de Versiones
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
----
-
-## 📊 Áreas de Experiencia
-
-- 🤖 **Machine Learning & Deep Learning**
-- 🔗 **LLM Development** con LangChain
-- 📊 **Análisis de Datos** y Visualización
-- 🌐 **Web Scraping** y Automatización
-- 💾 **Gestión de Bases de Datos**
-- 🧪 **Testing Automatizado**
-
----
-
-## � GitHub Analytics
+###
 
 <div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=JhonEdisonPinto&color=blueviolet&style=for-the-badge&label=PROFILE+VIEWS)
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=JhonEdisonPinto.JhonEdisonPinto&right_color=blueviolet" />
+</div>
+
+###
+
+## 💼 About Me
+
+<div align="center">
+
+🧠 Specialized in **Artificial Intelligence** and **Machine Learning**  
+🤝 Excellent **teamwork** and **communication** skills  
+⚡ **Fast learner** with adaptation to new technologies  
+🔄 **Flexible** to changes and new challenges  
+🎯 Focused on creating innovative and efficient solutions
 
 </div>
 
-### 📊 Estadísticas de GitHub
+###
+
+## 🛠️ Tech Stack
 
 <div align="center">
-  
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=JhonEdisonPinto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonEdisonPinto&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
+  <img src="https://skillicons.dev/icons?i=py" height="50" alt="python logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=r" height="50" alt="r logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=latex" height="50" alt="latex logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=postgresql" height="50" alt="postgresql logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sqlite" height="50" alt="sqlite logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=pytorch" height="50" alt="pytorch logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sklearn" height="50" alt="sklearn logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=github" height="50" alt="github logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge" height="30" alt="langchain" />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" height="30" alt="playwright" />
+</div>
+
+###
+
+## 📊 Areas of Expertise
+
+<div align="center">
+
+🤖 **Machine Learning & Deep Learning**  
+🔗 **LLM Development** with LangChain  
+📊 **Data Analysis** and Visualization  
+🌐 **Web Scraping** and Automation  
+💾 **Database Management**  
+🧪 **Automated Testing**
 
 </div>
 
-<div align="center">
-  
-[![GitHub Streak](https://streak-stats.demolab.com/?user=JhonEdisonPinto&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+###
 
-</div>
-
-### 🏆 GitHub Trophies
+## 📈 GitHub Analytics
 
 <div align="center">
-  
-[![trophy](https://github-profile-trophy.vercel.app/?username=JhonEdisonPinto&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
+  <img src="https://github-readme-stats.vercel.app/api?username=JhonEdisonPinto&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="160" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JhonEdisonPinto&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=8&theme=dracula&hide_border=false" height="160" alt="languages graph" />
 </div>
 
-### 📉 Gráfico de Contribuciones
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=JhonEdisonPinto&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="160" alt="streak graph" />
+  <img src="https://github-profile-trophy.vercel.app?username=JhonEdisonPinto&theme=dracula&column=4&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false" height="160" alt="trophy graph" />
+</div>
+
+###
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JhonEdisonPinto/JhonEdisonPinto/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JhonEdisonPinto/JhonEdisonPinto/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JhonEdisonPinto/JhonEdisonPinto/output/github-contribution-grid-snake.svg">
+</picture>
+
+###
+
+## 📫 Let's Connect
 
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JhonEdisonPinto&theme=react-dark&hide_border=true&area=true)
-
-</div>
-
----
-
-## �📫 Conectemos
-
-Siempre abierto a nuevos proyectos, colaboraciones y oportunidades de aprendizaje. ¡No dudes en contactarme!
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jhon-edison-pinto-b16330394/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jhone2381@gmail.com)
 
----
+</div>
 
-⭐️ *"La mejor manera de predecir el futuro es crearlo con IA"*
+###
+
+<p align="center">
+⭐️ <i>"The best way to predict the future is to create it with AI"</i>
+</p>
+
+###
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient" width="100%" />
+</div>

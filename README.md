@@ -113,6 +113,13 @@ I'm a <b>flexible</b> person with <b>great team communication skills</b> and <b>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonEdisonPinto&layout=compact&theme=dracula" height="160"/>
 </p>
 
+### 📉 Gráfico de Contribuciones
+
+<div align="center">
+  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JhonEdisonPinto&theme=react-dark&hide_border=true&area=true)
+
+</div>
 ## 📫 Let's Connect
 
 <div align="center">

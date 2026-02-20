@@ -1,8 +1,8 @@
 <div align="center">
   
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Jhon%20Edison%fontSize=90&fontAlign=70&desc=AI%20Developer%descAlign=70&descAlignY=65&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Jhon%20Edison&fontSize=90&fontAlign=70&desc=AI%20Developer&descAlign=70&descAlignY=65&animation=fadeIn" />
   
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=AI+%26+Machine+Learning+Specialist;Building+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=AI+Developer;Building+Intelligent+Solutions" alt="Typing SVG" />
   
   <br/>
   
@@ -210,20 +210,6 @@
   
   <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JhonEdisonPinto&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00D4AA&text_color=FFFFFF&langs_count=8" />
 
-</div>
-
----
-
-<h2 align="center">
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50">
-  <b> GitHub Trophies </b>
-  <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="50">
-</h2>
-
-<div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=JhonEdisonPinto&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4&title=Stars,Followers,Commits,Repositories,MultipleLang,PullRequest,Issues,Reviews" />
-  
 </div>
 
 ---

@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Jhon%20Edison%20Pinto&fontSize=90&fontAlign=70&desc=AI%20Developer%20%7C%20Machine%20Learning%20Specialist&descAlign=70&descAlignY=65&animation=fadeIn" />
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=300&section=header&text=Jhon%20Edison%fontSize=90&fontAlign=70&desc=AI%20Developer%descAlign=70&descAlignY=65&animation=fadeIn" />
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00D4AA&center=true&vCenter=true&multiline=true&width=600&height=80&lines=AI+%26+Machine+Learning+Specialist;Building+Intelligent+Solutions" alt="Typing SVG" />
   
@@ -72,9 +72,7 @@
 ---
 
 <h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50">
-  <b> Technology Arsenal </b>
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50">
+  <b> ⚡Technology Arsenal⚡ </b>
 </h2>
 
 <div align="center">
@@ -293,13 +291,6 @@
       </td>
     </tr>
   </table>
-  
-  <br>
-  
-  <h3>💭 Closing Thought</h3>
-  <p><em>"The best way to predict the future is to create it with AI."</em></p>
-  
-  <br>
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=150&section=footer" width="100%"/>
   

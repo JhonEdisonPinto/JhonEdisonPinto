@@ -9,7 +9,7 @@
   <p align="center">
     <img src="https://img.shields.io/badge/Focus-Artificial%20Intelligence-brightgreen?style=for-the-badge&logo=brain&logoColor=white"/>
     <img src="https://img.shields.io/badge/Passion-Innovation-blue?style=for-the-badge&logo=lightbulb&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Goal-Tech%20Excellence-orange?style=for-the-badge&logo=target&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Goal-Constant%20Growth-orange?style=for-the-badge&logo=trending&logoColor=white"/>
   </p>
   
   <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
@@ -152,12 +152,12 @@
     </tr>
     <tr>
       <td align="center">
-        <h3>📊 Data Analysis</h3>
-        <p><em>Extracting insights from complex datasets using Python and R</em></p>
+        <h3>�️ Web Scraping</h3>
+        <p><em>Learning advanced web scraping techniques and automation with Python</em></p>
       </td>
       <td align="center">
-        <h3>🌱 Continuous Learning</h3>
-        <p><em>Advanced AI/ML techniques, Deep Learning, and LLM optimization</em></p>
+        <h3>📚 Always Learning</h3>
+        <p><em>Exploring new technologies and improving my development skills daily</em></p>
       </td>
     </tr>
   </table>
@@ -183,7 +183,7 @@
   
   ### 💡 Philosophy
   
-  <p><em>"AI is not about replacing human creativity, but amplifying it to solve complex real-world problems!"</em></p>
+  <p><em>"Do everything with excellence and the best attitude possible. Quality and positivity make the difference."</em></p>
   
 </div>
 
@@ -228,10 +228,10 @@
 
 ---
 
-## 💡 Daily Inspiration:
+## 💡 My Motivation:
 <div align="center">
   
-  ![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&border=true)
+  <h3>💭 "Working every day to give my family and me a better life through technology and innovation"</h3>
   
 </div>
 

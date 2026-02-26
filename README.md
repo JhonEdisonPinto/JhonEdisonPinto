@@ -237,13 +237,16 @@
 
 ---
 
-## 🌟 Top Contributed Repositories:
-<div align="center">
-  
-![Top Contributed Repo](https://github-contributor-stats.vercel.app/api?username=JhonEdisonPinto&limit=5&theme=tokyonight)
-  
-</div>
+## 🌟 Repositorios Destacados
 
+<!-- Agentic AI Practice -->
+[![Agentic AI Practice](https://github-readme-stats.vercel.app/api/pin/?username=JhonEdisonPinto&repo=Agentic-AI-practice&theme=tokyonight)](https://github.com/JhonEdisonPinto/Agentic-AI-practice)
+
+<!-- MinTic Proyecto -->
+[![MinTic Proyecto](https://github-readme-stats.vercel.app/api/pin/?username=JhonEdisonPinto&repo=MinTic-proyecto&theme=tokyonight)](https://github.com/JhonEdisonPinto/MinTic-proyecto)
+
+<!-- Challenge Optimización -->
+[![Optimización SJS](https://github-readme-stats.vercel.app/api/pin/?username=SamuelOrtizT&repo=Challenge_ASOCIO25-optimizadores-SJS&theme=tokyonight)](https://github.com/SamuelOrtizT/Challenge_ASOCIO25-optimizadores-SJS)
 ---
 
 <div align="center">

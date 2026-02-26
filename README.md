@@ -237,13 +237,13 @@
 
 ---
 
-## 🌟 Repositorios Destacados
+## 🚀 Proyectos Destacados
 
-[![Agentic AI Practice](https://github-readme-stats.vercel.app/api/pin/?username=JhonEdisonPinto&repo=Agentic-AI-practice&theme=tokyonight)](https://github.com/JhonEdisonPinto/Agentic-AI-practice)
-
-[![MinTic Proyecto](https://github-readme-stats.vercel.app/api/pin/?username=JhonEdisonPinto&repo=MinTic-proyecto&theme=tokyonight)](https://github.com/JhonEdisonPinto/MinTic-proyecto)
-
-[![Optimización SJS](https://github-readme-stats.vercel.app/api/pin/?username=SamuelOrtizT&repo=Challenge_ASOCIO25-optimizadores-SJS&theme=tokyonight)](https://github.com/SamuelOrtizT/Challenge_ASOCIO25-optimizadores-SJS)
+| Proyecto | Descripción | Enlace |
+|----------|-------------|--------|
+| 🧠 Agentic AI Practice | Práctica con IA y automatización | https://github.com/JhonEdisonPinto/Agentic-AI-practice |
+| 🛠️ MinTic Proyecto | Proyecto del programa MinTic | https://github.com/JhonEdisonPinto/MinTic-proyecto |
+| ⚡ Optimización SJS | Challenge de optimizadores (ASOCIO25) | https://github.com/SamuelOrtizT/Challenge_ASOCIO25-optimizadores-SJS |
 ---
 
 <div align="center">

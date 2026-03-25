@@ -79,9 +79,9 @@
   
   <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn,r&perline=4" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=js,ts,java&perline=3" />
+  <img src="https://skillicons.dev/icons?i=js,ts,java,nextjs,fastapi&perline=5" />
   <br><br>
-  <img src="https://skillicons.dev/icons?i=postgresql,sqlite&perline=2" />
+  <img src="https://skillicons.dev/icons?i=postgresql,sqlite,pinecone&perline=3" />
   <br><br>
   <img src="https://skillicons.dev/icons?i=git,github,latex,vscode&perline=4" />
   
@@ -104,9 +104,14 @@
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
+### 🚀 Frameworks:
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
 ### 🗄️ Databases:
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
+![Pinecone](https://img.shields.io/badge/Pinecone-1F5CFF?style=for-the-badge&logoColor=white)
 
 ### 🔗 LLM & AI Tools:
 ![LangChain](https://img.shields.io/badge/🦜_LangChain-121212?style=for-the-badge)
@@ -146,14 +151,14 @@
         <p><em>Building intelligent applications with LLMs and exploring advanced machine learning algorithms</em></p>
       </td>
       <td align="center" width="50%">
-        <h3>🔗 LangChain Projects</h3>
-        <p><em>Creating powerful AI agents and workflows using LangChain ecosystem</em></p>
+        <h3>☁️ Google Cloud</h3>
+        <p><em>Learning Google Cloud to build and deploy scalable AI solutions</em></p>
       </td>
     </tr>
     <tr>
       <td align="center">
-        <h3>�️ Web Scraping</h3>
-        <p><em>Learning advanced web scraping techniques and automation with Python</em></p>
+        <h3>🕸️ Graph RAGs</h3>
+        <p><em>Building Graph RAG pipelines for better retrieval and contextual reasoning</em></p>
       </td>
       <td align="center">
         <h3>📚 Always Learning</h3>

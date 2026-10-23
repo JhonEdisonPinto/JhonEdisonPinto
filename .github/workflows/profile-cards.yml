@@ -1,0 +1,23 @@
+name: Profile Summary Cards
+
+on:
+  schedule:
+    - cron: "0 1 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: vn7n24fzkq/github-profile-summary-cards@release/4.2.0
+        env:
+          # METRICS_TOKEN (PAT with read:user + repo) is optional and adds private
+          # contributions; without it the default token shows public data only.
+          GITHUB_TOKEN: ${{ secrets.METRICS_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: -5

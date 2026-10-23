@@ -140,7 +140,8 @@
 | Project | What it does | Built with |
 |---------|--------------|------------|
 | 🏛️ [Agentic AI Practice](https://github.com/JhonEdisonPinto/Agentic-AI-practice) | A conversational RAG over **74 Colombian labor-law documents** (laws, decrees, rulings). A 5-node LangGraph pipeline classifies the query, calls specialized tools (e.g. severance calculations), retrieves, answers and verifies the result. | Python · LangGraph · ChromaDB · Gemini/Groq |
-| 🚗 [Road Accidents Analytics](https://github.com/JhonEdisonPinto/MinTic-proyecto) | A web app for the MinTIC program that explores **2,800+ road-accident records in Palmira**, combining OCR of traffic law, statistics and Gemini-powered answers. | Python · Streamlit · Gemini API · OCR |
+| 🥈 [Medcity Hackathon](https://github.com/JhonEdisonPinto/MedcityHackathon) | **2nd place at the Colombia 5.0 hackathon.** Geospatial data analysis and an interactive dashboard, paired with a LangGraph assistant backed by a Pinecone vector index. | Python · Streamlit · GeoPandas · LangGraph · Pinecone |
+| 🥈 [Road Accidents Analytics](https://github.com/JhonEdisonPinto/MinTic-proyecto) | **2nd place in the Colombian Government's MinTIC program (Bogotá).** A web app that explores **2,800+ road-accident records in Palmira**, combining OCR of traffic law, statistics and Gemini-powered answers. | Python · Streamlit · Gemini API · OCR |
 | ⚡ [Desk Assignment Optimizer](https://github.com/SamuelOrtizT/Challenge_ASOCIO25-optimizadores-SJS) | Team entry for the ASOCIO 2025 challenge: a MILP model that assigns employees to desks in hybrid workplaces, balancing preferences, team days and space usage. | Python · Pyomo · CBC |
 
 ---
